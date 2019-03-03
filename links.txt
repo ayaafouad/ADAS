@@ -1,0 +1,25 @@
+datasets:
+http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/
+
+https://playment.io/image-annotation/?utm_source=adwords&utm_medium=cpc&utm_term=%2Bdata%20%2Blabeling&utm_campaign=skag_ww&gclid=Cj0KCQiA7briBRD7ARIsABhX8aBG51BM5U-5LFC6IX168vaffzx7M3qbAboKIkEqa0G48GyD2RsNcc4aAtb2EALw_wcB
+
+
+https://www.cis.upenn.edu/~jshi/ped_html/
+
+
+
+data labeling :
+  youtube :
+https://www.youtube.com/watch?v=HMGxrOtsk7Q
+
+
+  others :
+https://en.wikipedia.org/wiki/Labeled_data
+
+data labeling tools :
+https://en.wikipedia.org/wiki/List_of_manual_image_annotation_tools
+
+https://www.quora.com/What-can-I-use-to-quickly-build-a-labeling-tool-for-my-training-data
+
+https://drive.google.com/file/d/1BN3VN5mD4_Wm0sTqCNANdUaqhos7FDjE/view?fbclid=IwAR0wk4T0fF3uKy1vjhDvKT8OrK2Hj1R1HbWheBV8h0LLVYcxC9O4kS5OcIk
+
